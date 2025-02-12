@@ -1,0 +1,30 @@
+.container{
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+}
+.inputContainer{
+   background-color:rgb(106, 116, 117);
+   height:80px;
+   width: 273px;
+   border-top-left-radius: 6px;
+   border-top-right-radius: 6px;
+   color:white;
+   text-align: right;
+   font-weight: 600;
+  
+}
+.button-style{
+  width:70px;
+  height:65px;
+  
+}
+.button-style:hover{
+  background-color:brown;
+}
+.operator{
+background-color: burlywood;
+color:darkblue;
+}
